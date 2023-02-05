@@ -37,8 +37,8 @@
   transform: rotate(-90deg);
 }
 #gameContainer {
-    width: 500px;
-    height: 500px;
-    border: 10px solid black;
-    position: relative;
-  }
+  width: 500px;
+  height: 500px;
+  border: 10px solid black;
+  position: relative;
+}
